@@ -9,9 +9,9 @@ Classification has been done to predict whether a person's yearly income in fall
 After implementing three classification Machine Learning algorithms (Logistic Regression, Random Forest Classifier and Support Vector machine). Random Forest Classifier outperformed & gave the accuracy score of 89% for the model, which depicts that the model has performed good when compared to other two models.
 ## MODEL DESIGN.
 The model was carried out through three stages:-
-1.	Exploratory Data Analysis – EDA
-2.	Feature Engineering.
-3.	Model Evaluation.
+1.	Exploratory Data Analysis – EDA. (https://github.com/Shahid7778/Adult-income-prediction/blob/main/EDA/Exploratory%20Data%20Analysis%20-%20EDA.ipynb)
+2.	Feature Engineering. (https://github.com/Shahid7778/Adult-income-prediction/blob/main/Feature%20Engineer/Feature%20Engineering.ipynb)
+3.	Model Evaluation. (https://github.com/Shahid7778/Adult-income-prediction/blob/main/Model%20Evaluation/Model%20Evaluation.ipynb)
 ### DATA SET.
 - The Data was collected from Kaggle.
 Data Set Link:- https://www.kaggle.com/datasets/uciml/adult-census-income
@@ -96,11 +96,3 @@ Model performance for test set after Hyperparameter tuning
 ## Conclusion
 
 The final model of Random Forest Classifier gave the best output for the data, with high Precision and Scores of close to 90% after hyperparameter tuning. Hence the predicted model can give the accuracy results up to 90% to predict the data points of the individual attributes and to classify their income level.
-
-
-
-
-
-
-
-
